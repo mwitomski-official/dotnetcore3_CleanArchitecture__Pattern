@@ -1,4 +1,12 @@
- <img align="left" width="116" height="116" src="https://raw.githubusercontent.com/JasonGT/CleanArchitecture/master/.github/icon.png" />
+# Clean Architecture with ASP.NET Core 3.0 - Jason Taylor - NDC Sydney 2019
+**Youtube source:** https://www.youtube.com/watch?v=5OtUm1BLmG0
+**Github source:** https://github.com/JasonGT/CleanArchitecture
+
+# Clean Architecture with ASP.NET Core 2.2 - Jason Taylor
+**Youtube source:** https://www.youtube.com/watch?v=Zygw4UAxCdg
+ 
+ 
+<img align="left" width="116" height="116" src="https://raw.githubusercontent.com/JasonGT/CleanArchitecture/master/.github/icon.png" />
  
  # Clean Architecture Solution Template
 [![Clean.Architecture.Solution.Template NuGet Package](https://img.shields.io/badge/nuget-1.0.5-blue)](https://www.nuget.org/packages/Clean.Architecture.Solution.Template)
